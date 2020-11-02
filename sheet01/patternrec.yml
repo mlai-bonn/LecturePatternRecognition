@@ -87,4 +87,4 @@ dependencies:
     - threadpoolctl==2.1.0
     - webencodings==0.5.1
     - widgetsnbextension==3.5.1
-prefix: /home/semueller/anaconda3/envs/patternrec
+prefix: $HOME/anaconda3/envs/patternrec
